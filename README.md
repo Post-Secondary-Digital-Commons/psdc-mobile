@@ -14,7 +14,8 @@ scope in the umbrella architecture.
 Distribution, white-labelling, institutional OIDC and device pairing are defined
 by `psdc-architecture:docs/clients/Institution-Branded-Client-Distribution-and-Access.md`.
 
-Apple App Store and Google Play builds are planned convenience channels, with a
-self-hosted PWA and signed Android packages as portable alternatives. There is no
-published public-store build yet; upstream source import, branding, signing,
-privacy review and release automation are still pending.
+Apple App Store and Google Play builds are optional convenience channels, with a
+self-hosted web experience and signed Android packages as portable alternatives.
+The architecture and release gates are defined; source import, branding assets,
+signing evidence, privacy evidence and release artifacts are produced during the
+implementation phase and are not unresolved architecture choices.
