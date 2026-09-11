@@ -1,4 +1,4 @@
-# Upstream Provenance — FPSDC Happy Mobile
+# Upstream Provenance — PSDC Happy Mobile
 
 > State: Source not imported; ADR-0019 gates apply.
 
